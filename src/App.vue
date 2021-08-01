@@ -58,7 +58,7 @@
           <a :href="contractLink" target="_blank" rel="noopener"><v-icon color="primary" dense>fa fa-chain</v-icon></a>
           <a href="https://twitter.com/buttonists" target="_blank" rel="noopener"><v-icon color="primary" dense>fa fa-twitter</v-icon></a>
           <a href="https://t.me/buttonists" target="_blank" rel="noopener"><v-icon color="primary" dense>fa fa-send</v-icon></a>
-          <a href="https://github.com/Timikcool/tezos-mandala" target="_blank" rel="noopener"><v-icon color="primary" dense>fa fa-github</v-icon></a>
+          <a href="https://github.com/CapTake/tezos-mandala-web" target="_blank" rel="noopener"><v-icon color="primary" dense>fa fa-github</v-icon></a>
         </v-col>
       </v-row>
     </footer>
